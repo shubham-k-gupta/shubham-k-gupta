@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
 <h3 align="center">I am a Senior Software Engineer currently working for "LTI Mindtree".</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 💬 Ask me about **Python, Data Science**
 
