@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **Python, Data Science**
+- 💬 Ask me about **Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **skg@asia.com**
 
